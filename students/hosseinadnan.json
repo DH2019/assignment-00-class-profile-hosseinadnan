@@ -1,0 +1,14 @@
+{
+  "firstName": "Hossein",
+  "lastName": "Adnan",
+  "nickName": "Sonson",
+  "privateName": false,
+  "picture": "images/hosseinadnan.jpg",
+  "privatePicture": false,
+  "email": "hossein.adnan@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "hosseinadnan",
+  "privateGithub": false,
+  "superpower" : "Fortnite champ",
+  "academicinterests": "Investments"
+}
